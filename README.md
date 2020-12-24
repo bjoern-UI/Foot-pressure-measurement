@@ -1,1 +1,1 @@
-# Foot-pressure-measurement
+# Foot-pressure-measurement wir FSR Sensor
